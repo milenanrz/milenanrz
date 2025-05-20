@@ -35,10 +35,10 @@
 ###
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="" target="_blank">
+  <a href="https://instagram.com/milenanrzz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="milenanrzz" target="_blank">
+  <a href="https://x.com/milenanrzz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>

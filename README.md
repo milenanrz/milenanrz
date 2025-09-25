@@ -1,5 +1,8 @@
 <h1 align="left">Hi 👋! My name is Milena Narvaez</h1>
 <h3 align="center">Milena's GitHub Profile</h3>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=milenanrz.milenanrz&"/>
+</div>
 
 - 📫 How to reach me **narvaezmilena084@gmail.com**
 
